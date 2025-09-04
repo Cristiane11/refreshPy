@@ -20,3 +20,4 @@ class House:
         
     def __str__(self):
         return f"House at {self.address} with {self.num_bedrooms} bedrooms and {self.num_bathrooms} bathrooms."
+building1.__str__
